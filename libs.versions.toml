@@ -1,0 +1,48 @@
+[versions]
+# Plugins
+lombokPluginVersion = "8.10.2" #https://plugins.gradle.org/plugin/io.freefair.lombok
+shadowPluginVersion = "8.3.4" #https://plugins.gradle.org/plugin/com.gradleup.shadow
+runPaperPluginVersion = "2.3.1" #https://github.com/jpenilla/run-task
+ymlPluginVersion = "0.6.0" #https://github.com/Minecrell/plugin-yml
+# CompileOnly
+paperApiVersion = "1.16.5-R0.1-SNAPSHOT"
+placeholderApiVersion = "2.11.6" #https://github.com/PlaceholderAPI/PlaceholderAPI
+commandApiVersion = "9.6.1" #https://commandapi.jorel.dev/
+hologramsVersion = "2.8.12" #https://github.com/DecentSoftware-eu/DecentHolograms/tree/2.8.12
+# Implementation
+commonsIoVersion = "2.17.0" #https://mvnrepository.com/artifact/commons-io/commons-io
+helperVersion = "5.6.14" #https://github.com/lucko/helper
+triumphGuiVersion = "3.1.10" #https://github.com/TriumphTeam/triumph-gui
+guiceVersion = "7.0.0" #https://github.com/google/guice
+hikariVersion = "6.2.1" #https://github.com/brettwooldridge/HikariCP
+javatuplesVersion = "1.2" #https://mvnrepository.com/artifact/org.javatuples/javatuples/1.2
+
+wutilsConfigVersion = "2.7.4" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-config/
+wutilsConfigurablesVersion = "1.1.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
+wutilsLogVersion = "3.1.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
+wutilsi18nVersion = "3.1.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
+
+[libraries]
+# CompileOnly
+paperApi = { module = "com.destroystokyo.paper:paper-api", version.ref = "paperApiVersion" }
+placeholderApi = { module = "me.clip:placeholderapi", version.ref = "placeholderApiVersion" }
+commandApi = { module = "dev.jorel:commandapi-bukkit-core", version.ref = "commandApiVersion" }
+holograms = { module = "com.github.decentsoftware-eu:decentholograms", version.ref = "hologramsVersion" }
+# Implementation
+commonsIo = { module = "commons-io:commons-io", version.ref = "commonsIoVersion" }
+helper = { module = "me.lucko:helper", version.ref = "helperVersion" }
+triumphGui = { module = "dev.triumphteam:triumph-gui", version.ref = "triumphGuiVersion" }
+guice = { module = "com.google.inject:guice", version.ref = "guiceVersion" }
+hikari = { module = "com.zaxxer:HikariCP", version.ref = "hikariVersion" }
+javatuples = { module = "org.javatuples:javatuples", version.ref = "javatuplesVersion" }
+
+wutilsConfig = { module = "me.wyne:WUtils-config", version.ref = "wutilsConfigVersion" }
+wutilsConfigugrables = { module = "me.wyne:WUtils-configurables", version.ref = "wutilsConfigurablesVersion" }
+wutilsLog = { module = "me.wyne:WUtils-log", version.ref = "wutilsLogVersion" }
+wutilsI18n = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nVersion" }
+
+[plugins]
+lombok = { id = "io.freefair.lombok", version.ref = "lombokPluginVersion" }
+shadow = { id = "com.gradleup.shadow", version.ref = "shadowPluginVersion" }
+runPaper = { id = "xyz.jpenilla.run-paper", version.ref = "runPaperPluginVersion" }
+pluginYml = { id = "net.minecrell.plugin-yml.bukkit", version.ref = "ymlPluginVersion" }
