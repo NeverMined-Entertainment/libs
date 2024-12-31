@@ -4,6 +4,7 @@ lombokPluginVersion = "8.11" #https://plugins.gradle.org/plugin/io.freefair.lomb
 shadowPluginVersion = "8.3.5" #https://plugins.gradle.org/plugin/com.gradleup.shadow
 runPaperPluginVersion = "2.3.1" #https://github.com/jpenilla/run-task
 ymlPluginVersion = "0.6.0" #https://github.com/Minecrell/plugin-yml
+paperweightVersion = "2.0.0-beta.8"
 # CompileOnly
 paperApiVersion = "1.16.5-R0.1-SNAPSHOT"
 placeholderApiVersion = "2.11.6" #https://github.com/PlaceholderAPI/PlaceholderAPI
@@ -46,3 +47,4 @@ lombok = { id = "io.freefair.lombok", version.ref = "lombokPluginVersion" }
 shadow = { id = "com.gradleup.shadow", version.ref = "shadowPluginVersion" }
 runPaper = { id = "xyz.jpenilla.run-paper", version.ref = "runPaperPluginVersion" }
 pluginYml = { id = "net.minecrell.plugin-yml.bukkit", version.ref = "ymlPluginVersion" }
+paperweight = { id = "io.papermc.paperweight.userdev", version.ref = "paperweightVersion" }
