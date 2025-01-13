@@ -22,6 +22,7 @@ wutilsConfigVersion = "2.7.5" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7
 wutilsConfigurablesVersion = "1.5.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
 wutilsLogVersion = "3.1.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
 wutilsi18nVersion = "3.3.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
+wutilsCommonVersion = "1.0.0"
 
 [libraries]
 # CompileOnly
@@ -41,6 +42,7 @@ wutilsConfig = { module = "me.wyne:WUtils-config", version.ref = "wutilsConfigVe
 wutilsConfigugrables = { module = "me.wyne:WUtils-configurables", version.ref = "wutilsConfigurablesVersion" }
 wutilsLog = { module = "me.wyne:WUtils-log", version.ref = "wutilsLogVersion" }
 wutilsI18n = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nVersion" }
+wutilsCommon = { module = "me.wyne:WUtils-common", version.ref = "wutilsCommonVersion" }
 
 [plugins]
 lombok = { id = "io.freefair.lombok", version.ref = "lombokPluginVersion" }
