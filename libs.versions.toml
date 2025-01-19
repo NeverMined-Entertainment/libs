@@ -40,7 +40,7 @@ guice = { module = "com.google.inject:guice", version.ref = "guiceVersion" }
 hikari = { module = "com.zaxxer:HikariCP", version.ref = "hikariVersion" }
 javatuples = { module = "org.javatuples:javatuples", version.ref = "javatuplesVersion" }
 worldEdit = { module = "com.sk89q.worldedit:worldedit-bukkit", version.ref = "worldEditVersion" }
-worldGuard = { module = "com.sk89q.worldedit:worldguard-bukkit", version.ref = "worldGuardVersion" }
+worldGuard = { module = "com.sk89q.worldguard:worldguard-bukkit", version.ref = "worldGuardVersion" }
 
 wutilsConfig = { module = "me.wyne:WUtils-config", version.ref = "wutilsConfigVersion" }
 wutilsConfigugrables = { module = "me.wyne:WUtils-configurables", version.ref = "wutilsConfigurablesVersion" }
