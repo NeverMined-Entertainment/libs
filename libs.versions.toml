@@ -10,6 +10,8 @@ paperApiVersion = "1.16.5-R0.1-SNAPSHOT"
 placeholderApiVersion = "2.11.6" #https://github.com/PlaceholderAPI/PlaceholderAPI
 commandApiVersion = "9.6.1" #https://commandapi.jorel.dev/
 hologramsVersion = "2.8.12" #https://github.com/DecentSoftware-eu/DecentHolograms/tree/2.8.12
+worldEditVersion = "7.3.9" #https://github.com/EngineHub/WorldEdit/tags
+worldGuardVersion = "7.0.10" #https://github.com/EngineHub/WorldGuard/tags
 # Implementation
 commonsIoVersion = "2.18.0" #https://mvnrepository.com/artifact/commons-io/commons-io
 helperVersion = "5.6.14" #https://github.com/lucko/helper
@@ -37,6 +39,8 @@ triumphGui = { module = "dev.triumphteam:triumph-gui", version.ref = "triumphGui
 guice = { module = "com.google.inject:guice", version.ref = "guiceVersion" }
 hikari = { module = "com.zaxxer:HikariCP", version.ref = "hikariVersion" }
 javatuples = { module = "org.javatuples:javatuples", version.ref = "javatuplesVersion" }
+worldEdit = { module = "com.sk89q.worldedit:worldedit-bukkit", version.ref = "worldEditVersion" }
+worldGuard = { module = "com.sk89q.worldedit:worldguard-bukkit", version.ref = "worldGuardVersion" }
 
 wutilsConfig = { module = "me.wyne:WUtils-config", version.ref = "wutilsConfigVersion" }
 wutilsConfigugrables = { module = "me.wyne:WUtils-configurables", version.ref = "wutilsConfigurablesVersion" }
