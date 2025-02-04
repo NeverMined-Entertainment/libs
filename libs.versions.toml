@@ -10,7 +10,7 @@ paperApiVersion = "1.16.5-R0.1-SNAPSHOT"
 placeholderApiVersion = "2.11.6" #https://github.com/PlaceholderAPI/PlaceholderAPI
 commandApiVersion = "9.6.1" #https://commandapi.jorel.dev/
 hologramsVersion = "2.8.12" #https://github.com/DecentSoftware-eu/DecentHolograms/tree/2.8.12
-worldEditVersion = "7.3.9" #https://github.com/EngineHub/WorldEdit/tags
+worldEditVersion = "7.2.20" #https://github.com/EngineHub/WorldEdit/tags
 worldGuardVersion = "7.0.7" #https://github.com/EngineHub/WorldGuard/tags
 # Implementation
 commonsIoVersion = "2.18.0" #https://mvnrepository.com/artifact/commons-io/commons-io
