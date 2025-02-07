@@ -20,12 +20,13 @@ guiceVersion = "7.0.0" #https://github.com/google/guice
 hikariVersion = "6.2.1" #https://github.com/brettwooldridge/HikariCP
 natsVersion = "2.20.5" #https://github.com/nats-io/nats.java
 javatuplesVersion = "1.2" #https://mvnrepository.com/artifact/org.javatuples/javatuples/1.2
+gsonExtrasVersion = "2.8.5" #https://mvnrepository.com/artifact/com.google.code.gson/gson-extras
 
 wutilsConfigVersion = "2.7.7" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-config/
 wutilsConfigurablesVersion = "1.5.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
 wutilsLogVersion = "3.1.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
 wutilsi18nVersion = "3.3.6" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
-wutilsCommonVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-common/
+wutilsCommonVersion = "1.1.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-common/
 
 [libraries]
 # CompileOnly
@@ -43,6 +44,7 @@ guice = { module = "com.google.inject:guice", version.ref = "guiceVersion" }
 nats = { module = "io.nats:jnats", version.ref = "natsVersion" }
 hikari = { module = "com.zaxxer:HikariCP", version.ref = "hikariVersion" }
 javatuples = { module = "org.javatuples:javatuples", version.ref = "javatuplesVersion" }
+gsonExtras = { module = "com.google.code.gson:gson-extras", version.ref = "gsonExtrasVersion" }
 
 wutilsConfig = { module = "me.wyne:WUtils-config", version.ref = "wutilsConfigVersion" }
 wutilsConfigugrables = { module = "me.wyne:WUtils-configurables", version.ref = "wutilsConfigurablesVersion" }
