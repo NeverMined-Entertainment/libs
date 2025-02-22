@@ -21,6 +21,7 @@ guiceVersion = "7.0.0" #https://github.com/google/guice
 hikariVersion = "6.2.1" #https://github.com/brettwooldridge/HikariCP
 natsVersion = "2.20.5" #https://github.com/nats-io/nats.java
 javatuplesVersion = "1.2" #https://mvnrepository.com/artifact/org.javatuples/javatuples/1.2
+gsonVersion = "2.12.1" #https://mvnrepository.com/artifact/com.google.code.gson/gson
 gsonExtrasVersion = "3.1.0" #https://mvnrepository.com/artifact/com.google.code.gson/gson-extras
 adventureVersion = "4.19.0" #https://mvnrepository.com/artifact/net.kyori/adventure-api
 
@@ -47,6 +48,7 @@ guice = { module = "com.google.inject:guice", version.ref = "guiceVersion" }
 nats = { module = "io.nats:jnats", version.ref = "natsVersion" }
 hikari = { module = "com.zaxxer:HikariCP", version.ref = "hikariVersion" }
 javatuples = { module = "org.javatuples:javatuples", version.ref = "javatuplesVersion" }
+gson = { module = "com.google.code.gson:gson", version.ref = "gsonVersion" }
 gsonExtras = { module = "org.danilopianini:gson-extras", version.ref = "gsonExtrasVersion" }
 adventureApi = { module = "net.kyori:adventure-api", version.ref = "adventureVersion" }
 adventureMini = { module = "net.kyori:adventure-text-minimessage", version.ref = "adventureVersion" }
