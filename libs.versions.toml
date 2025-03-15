@@ -13,6 +13,7 @@ hologramsVersion = "2.8.15" #https://github.com/DecentSoftware-eu/DecentHologram
 worldEditVersion = "7.2.20" #https://github.com/EngineHub/WorldEdit/tags
 worldGuardVersion = "7.0.7" #https://github.com/EngineHub/WorldGuard/tags
 luckPermsVersion = "5.4" #https://mvnrepository.com/artifact/net.luckperms/api
+infPointsVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/InfPoints-api/
 # Implementation
 commonsIoVersion = "2.18.0" #https://mvnrepository.com/artifact/commons-io/commons-io
 helperVersion = "5.6.14" #https://github.com/lucko/helper
@@ -43,6 +44,7 @@ holograms = { module = "com.github.decentsoftware-eu:decentholograms", version.r
 worldEdit = { module = "com.sk89q.worldedit:worldedit-bukkit", version.ref = "worldEditVersion" }
 worldGuard = { module = "com.sk89q.worldguard:worldguard-bukkit", version.ref = "worldGuardVersion" }
 luckPerms = { module = "net.luckperms:api", version.ref = "luckPermsVersion" } 
+infPoints = { module = "org.bigcraft:InfPoints-api", version.ref = "infPointsVersion" }
 # Implementation
 commonsIo = { module = "commons-io:commons-io", version.ref = "commonsIoVersion" }
 helper = { module = "me.lucko:helper", version.ref = "helperVersion" }
