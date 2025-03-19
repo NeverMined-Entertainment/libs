@@ -50,6 +50,7 @@ commonsIo = { module = "commons-io:commons-io", version.ref = "commonsIoVersion"
 helper = { module = "me.lucko:helper", version.ref = "helperVersion" }
 triumphGui = { module = "dev.triumphteam:triumph-gui", version.ref = "triumphGuiVersion" }
 guice = { module = "com.google.inject:guice", version.ref = "guiceVersion" }
+guiceAssistedInject = { module = "com.google.inject.extensions:guice-assistedinject", version.ref = "guiceVersion" }
 nats = { module = "io.nats:jnats", version.ref = "natsVersion" }
 hikari = { module = "com.zaxxer:HikariCP", version.ref = "hikariVersion" }
 javatuples = { module = "org.javatuples:javatuples", version.ref = "javatuplesVersion" }
