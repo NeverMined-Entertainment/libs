@@ -62,7 +62,7 @@ ormLiteJdbc = { module = "com.j256.ormlite:ormlite-jdbc", version.ref = "ormLite
 ormLiteCore = { module = "com.j256.ormlite:ormlite-core", version.ref = "ormLiteVersion" }
 
 wutilsConfig = { module = "me.wyne:WUtils-config", version.ref = "wutilsConfigVersion" }
-wutilsConfigugrables = { module = "me.wyne:WUtils-configurables", version.ref = "wutilsConfigurablesVersion" }
+wutilsConfigurables = { module = "me.wyne:WUtils-configurables", version.ref = "wutilsConfigurablesVersion" }
 wutilsLog = { module = "me.wyne:WUtils-log", version.ref = "wutilsLogVersion" }
 wutilsI18n = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nVersion" }
 wutilsCommon = { module = "me.wyne:WUtils-common", version.ref = "wutilsCommonVersion" }
