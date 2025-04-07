@@ -27,8 +27,8 @@ gsonExtrasVersion = "3.1.0" #https://mvnrepository.com/artifact/com.google.code.
 adventureVersion = "4.19.0" #https://mvnrepository.com/artifact/net.kyori/adventure-api
 ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-core
 
-wutilsConfigVersion = "2.7.14" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-config/
-wutilsConfigurablesVersion = "1.6.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
+wutilsConfigVersion = "2.7.15" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-config/
+wutilsConfigurablesVersion = "1.6.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
 wutilsLogVersion = "3.1.3" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
 wutilsi18nVersion = "3.3.15" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
 wutilsCommonVersion = "1.1.8" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-common/
