@@ -31,6 +31,7 @@ ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/orml
 wutilsConfigVersion = "2.8.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-config/
 wutilsConfigurablesVersion = "1.6.12" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
 wutilsLogVersion = "3.3.5" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
+wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
 wutilsi18nVersion = "4.0.3" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
 wutilsi18nKotlinVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n-kotlin/
 wutilsCommonVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-common/
@@ -67,6 +68,7 @@ ormLiteCore = { module = "com.j256.ormlite:ormlite-core", version.ref = "ormLite
 wutilsConfig = { module = "me.wyne:WUtils-config", version.ref = "wutilsConfigVersion" }
 wutilsConfigurables = { module = "me.wyne:WUtils-configurables", version.ref = "wutilsConfigurablesVersion" }
 wutilsLog = { module = "me.wyne:WUtils-log", version.ref = "wutilsLogVersion" }
+wutilsI18nLegacy = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nLegacyVersion" }
 wutilsI18n = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nVersion" }
 wutilsI18nKotlin = { module = "me.wyne:WUtils-i18n-kotlin", version.ref = "wutilsi18nKotlinVersion" }
 wutilsCommon = { module = "me.wyne:WUtils-common", version.ref = "wutilsCommonVersion" }
