@@ -32,6 +32,7 @@ wutilsConfigVersion = "2.8.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7
 wutilsConfigurablesVersion = "1.6.12" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
 wutilsLogVersion = "3.3.5" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
 wutilsi18nVersion = "4.0.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
+wutilsi18nKotlinVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n-kotlin/
 wutilsCommonVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-common/
 wutilsJdbcVersion = "1.1.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-jdbc/
 wutilsJsonVersion = "1.1.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-json/
@@ -67,6 +68,7 @@ wutilsConfig = { module = "me.wyne:WUtils-config", version.ref = "wutilsConfigVe
 wutilsConfigurables = { module = "me.wyne:WUtils-configurables", version.ref = "wutilsConfigurablesVersion" }
 wutilsLog = { module = "me.wyne:WUtils-log", version.ref = "wutilsLogVersion" }
 wutilsI18n = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nVersion" }
+wutilsI18nKotlin = { module = "me.wyne:WUtils-i18n-kotlin", version.ref = "wutilsi18nKotlinVersion" }
 wutilsCommon = { module = "me.wyne:WUtils-common", version.ref = "wutilsCommonVersion" }
 wutilsJdbc = { module = "me.wyne:WUtils-jdbc", version.ref = "wutilsJdbcVersion" }
 wutilsJson = { module = "me.wyne:WUtils-json", version.ref = "wutilsJsonVersion" }
