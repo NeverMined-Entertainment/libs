@@ -63,6 +63,7 @@ gson = { module = "com.google.code.gson:gson", version.ref = "gsonVersion" }
 gsonExtras = { module = "org.danilopianini:gson-extras", version.ref = "gsonExtrasVersion" }
 adventureApi = { module = "net.kyori:adventure-api", version.ref = "adventureVersion" }
 adventureMini = { module = "net.kyori:adventure-text-minimessage", version.ref = "adventureVersion" }
+adventurePlain = { module = "net.kyori:adventure-text-serializer-plain", version.ref = "adventureVersion" }
 adventureBukkit = { module = "net.kyori:adventure-platform-bukkit", version.ref = "adventureBukkitVersion" }
 ormLiteJdbc = { module = "com.j256.ormlite:ormlite-jdbc", version.ref = "ormLiteVersion" }
 ormLiteCore = { module = "com.j256.ormlite:ormlite-core", version.ref = "ormLiteVersion" }
