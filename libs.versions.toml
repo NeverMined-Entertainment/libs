@@ -32,11 +32,11 @@ adventureVersion = "4.21.0" #https://mvnrepository.com/artifact/net.kyori/advent
 adventureBukkitVersion = "4.3.4" #https://mvnrepository.com/artifact/net.kyori/adventure-platform-bukkit
 ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-core
 
-wutilsConfigVersion = "2.9.3" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-config/
+wutilsConfigVersion = "2.9.4" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-config/
 wutilsConfigurablesVersion = "1.11.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
-wutilsLogVersion = "3.4.5" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
+wutilsLogVersion = "3.4.6" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
 wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
-wutilsi18nVersion = "4.1.10" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
+wutilsi18nVersion = "4.1.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
 wutilsi18nKotlinVersion = "1.0.14" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n-kotlin/
 wutilsCommonVersion = "1.4.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-common/
 wutilsJdbcVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-jdbc/
