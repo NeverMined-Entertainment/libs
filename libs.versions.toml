@@ -35,15 +35,14 @@ adventureBukkitVersion = "4.3.4" #https://mvnrepository.com/artifact/net.kyori/a
 ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-core
 
 wutilsConfigVersion = "2.9.4" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-config/
-wutilsConfigurablesVersion = "1.11.7" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
+wutilsConfigurablesVersion = "1.13.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-configurables/
 wutilsLogVersion = "3.4.6" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
 wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
-wutilsi18nVersion = "4.1.12" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
-wutilsi18nKotlinVersion = "1.0.15" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n-kotlin/
+wutilsi18nVersion = "5.1.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
 wutilsCommonVersion = "1.4.4" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-common/
 wutilsJdbcVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-jdbc/
 wutilsJsonVersion = "1.1.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-json/
-wutilsAnimationVersion = "1.0.8" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-animation/
+wutilsAnimationVersion = "1.1.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-animation/
 
 [libraries]
 # CompileOnly
@@ -84,7 +83,7 @@ wutilsConfigurables = { module = "me.wyne:WUtils-configurables", version.ref = "
 wutilsLog = { module = "me.wyne:WUtils-log", version.ref = "wutilsLogVersion" }
 wutilsI18nLegacy = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nLegacyVersion" }
 wutilsI18n = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nVersion" }
-wutilsI18nKotlin = { module = "me.wyne:WUtils-i18n-kotlin", version.ref = "wutilsi18nKotlinVersion" }
+wutilsI18nKotlin = { module = "me.wyne:WUtils-i18n-kotlin", version.ref = "wutilsi18nVersion" }
 wutilsCommon = { module = "me.wyne:WUtils-common", version.ref = "wutilsCommonVersion" }
 wutilsJdbc = { module = "me.wyne:WUtils-jdbc", version.ref = "wutilsJdbcVersion" }
 wutilsJson = { module = "me.wyne:WUtils-json", version.ref = "wutilsJsonVersion" }
