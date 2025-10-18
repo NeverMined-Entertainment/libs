@@ -20,6 +20,7 @@ connectionSourceVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0q
 mobMoneyVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/MobMoney-api/
 effectiveVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/Effective-core/
 protocolLibVersion = "5.3.0" #https://repo.dmulloy2.net/service/rest/repository/browse/public/com/comphenix/protocol/ProtocolLib/
+abstractMenusVersion = "1.16" #https://abstractmenus.github.io/docs/dev/general.html
 # Implementation
 commonsIoVersion = "2.19.0" #https://mvnrepository.com/artifact/commons-io/commons-io
 helperVersion = "5.6.14" #https://github.com/lucko/helper
@@ -60,6 +61,7 @@ connectionSource = { module = "org.bigcraft:ConnectionSource-api", version.ref =
 mobMoney = { module = "org.bigcraft:MobMoney-api", version.ref = "mobMoneyVersion" }
 effective = { module = "org.bigcraft:Effective-core", version.ref = "effectiveVersion" }
 protocolLib = { module = "com.comphenix.protocol:ProtocolLib", version.ref = "protocolLibVersion" }
+abstractMenus = { module = "com.github.AbstractMenus:api", version.ref = "abstractMenusVersion" }
 # Implementation
 commonsIo = { module = "commons-io:commons-io", version.ref = "commonsIoVersion" }
 helper = { module = "me.lucko:helper", version.ref = "helperVersion" }
