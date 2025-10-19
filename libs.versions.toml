@@ -40,7 +40,7 @@ wutilsConfigurablesVersion = "1.13.14" #https://mymavenrepo.com/repo/SjKIru68icw
 wutilsLogVersion = "3.4.7" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-log/
 wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
 wutilsi18nVersion = "5.1.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-i18n/
-wutilsCommonVersion = "1.4.24" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-common/
+wutilsCommonVersion = "1.4.26" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-common/
 wutilsJdbcVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-jdbc/
 wutilsJsonVersion = "1.1.4" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-json/
 wutilsAnimationVersion = "2.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/WUtils-animation/
@@ -87,6 +87,7 @@ wutilsI18nLegacy = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nLe
 wutilsI18n = { module = "me.wyne:WUtils-i18n", version.ref = "wutilsi18nVersion" }
 wutilsI18nKotlin = { module = "me.wyne:WUtils-i18n-kotlin", version.ref = "wutilsi18nVersion" }
 wutilsCommon = { module = "me.wyne:WUtils-common", version.ref = "wutilsCommonVersion" }
+wutilsCommonKotlin = { module = "me.wyne:WUtils-common-kotlin", version.ref = "wutilsCommonVersion" }
 wutilsJdbc = { module = "me.wyne:WUtils-jdbc", version.ref = "wutilsJdbcVersion" }
 wutilsJson = { module = "me.wyne:WUtils-json", version.ref = "wutilsJsonVersion" }
 wutilsAnimation = { module = "me.wyne:WUtils-animation", version.ref = "wutilsAnimationVersion" }
