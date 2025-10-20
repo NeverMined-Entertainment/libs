@@ -2,7 +2,7 @@
 # Plugins
 lombokPluginVersion = "8.14.2" #https://plugins.gradle.org/plugin/io.freefair.lombok (Last version 8)
 shadowPluginVersion = "8.3.9" #https://plugins.gradle.org/plugin/com.gradleup.shadow (Last version 8)
-runPaperPluginVersion = "3.0.2" #https://github.com/jpenilla/run-task
+runPaperPluginVersion = "2.3.1" #https://github.com/jpenilla/run-task (Last java 16 version)
 ymlPluginVersion = "0.6.0" #https://github.com/Minecrell/plugin-yml
 paperweightVersion = "2.0.0-beta.8"
 # CompileOnly
