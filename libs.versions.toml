@@ -19,6 +19,7 @@ tabApiVersion = "5.2.4" #https://github.com/NEZNAMY/TAB/wiki/Developer-API
 connectionSourceVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/ConnectionSource-api/
 mobMoneyVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/MobMoney-api/
 effectiveVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/Effective-core/
+customItemsVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/CustomItems-core/
 protocolLibVersion = "5.3.0" #https://repo.dmulloy2.net/service/rest/repository/browse/public/com/comphenix/protocol/ProtocolLib/
 abstractMenusVersion = "1.16" #https://abstractmenus.github.io/docs/dev/general.html
 # Implementation
@@ -60,6 +61,7 @@ tabApi = { module = "com.github.NEZNAMY:TAB-API", version.ref = "tabApiVersion" 
 connectionSource = { module = "org.bigcraft:ConnectionSource-api", version.ref = "connectionSourceVersion" }
 mobMoney = { module = "org.bigcraft:MobMoney-api", version.ref = "mobMoneyVersion" }
 effective = { module = "org.bigcraft:Effective-core", version.ref = "effectiveVersion" }
+customItems = { module = "org.bigcraft:CustomItems-core", version.ref = "customItemsVersion" }
 protocolLib = { module = "com.comphenix.protocol:ProtocolLib", version.ref = "protocolLibVersion" }
 abstractMenus = { module = "com.github.AbstractMenus:api", version.ref = "abstractMenusVersion" }
 # Implementation
