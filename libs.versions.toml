@@ -20,8 +20,9 @@ connectionSourceVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0q
 mobMoneyVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/MobMoney-api/
 effectiveVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/Effective-core/
 customItemsVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/CustomItems-core/
-protocolLibVersion = "5.3.0" #https://repo.dmulloy2.net/service/rest/repository/browse/public/com/comphenix/protocol/ProtocolLib/
+protocolLibVersion = "5.4.0" #https://github.com/dmulloy2/ProtocolLib
 abstractMenusVersion = "1.16" #https://abstractmenus.github.io/docs/dev/general.html
+antiRelogVersion = "3.0.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/ru/leymooo/antirelog/
 # Implementation
 commonsIoVersion = "2.20.0" #https://mvnrepository.com/artifact/commons-io/commons-io
 helperVersion = "5.6.14" #https://github.com/lucko/helper
@@ -62,8 +63,9 @@ connectionSource = { module = "org.bigcraft:ConnectionSource-api", version.ref =
 mobMoney = { module = "org.bigcraft:MobMoney-api", version.ref = "mobMoneyVersion" }
 effective = { module = "org.bigcraft:Effective-core", version.ref = "effectiveVersion" }
 customItems = { module = "org.bigcraft:CustomItems-core", version.ref = "customItemsVersion" }
-protocolLib = { module = "com.comphenix.protocol:ProtocolLib", version.ref = "protocolLibVersion" }
+protocolLib = { module = "net.dmulloy2:ProtocolLib", version.ref = "protocolLibVersion" }
 abstractMenus = { module = "com.github.AbstractMenus:api", version.ref = "abstractMenusVersion" }
+antiRelog = { module = "ru.leymooo:antirelog", version.ref = "antiRelogVersion" }
 # Implementation
 commonsIo = { module = "commons-io:commons-io", version.ref = "commonsIoVersion" }
 helper = { module = "me.lucko:helper", version.ref = "helperVersion" }
