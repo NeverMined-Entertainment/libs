@@ -24,7 +24,7 @@ customItemsVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/
 protocolLibVersion = "5.4.0" #https://github.com/dmulloy2/ProtocolLib
 abstractMenusVersion = "1.16" #https://abstractmenus.github.io/docs/dev/general.html
 antiRelogVersion = "3.0.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/ru/leymooo/antirelog/
-worldEventsVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-api/
+worldEventsVersion = "1.2.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-api/
 # Implementation
 commonsIoVersion = "2.20.0" #https://mvnrepository.com/artifact/commons-io/commons-io
 helperVersion = "5.6.14" #https://github.com/lucko/helper
