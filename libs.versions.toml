@@ -3,7 +3,7 @@
 lombokPluginVersion = "8.14.2" #https://plugins.gradle.org/plugin/io.freefair.lombok (Last version 8)
 shadowPluginVersion = "8.3.9" #https://plugins.gradle.org/plugin/com.gradleup.shadow (Last version 8)
 runPaperPluginVersion = "2.3.1" #https://github.com/jpenilla/run-task (Last java 16 version)
-runPaperForkPluginVersion = "2.3.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/xyz/jpenilla/run-paper/
+runPaperForkPluginVersion = "2.3.3" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/xyz/jpenilla/run-paper/
 ymlPluginVersion = "0.6.0" #https://github.com/Minecrell/plugin-yml
 paperweightVersion = "2.0.0-beta.8"
 # CompileOnly
