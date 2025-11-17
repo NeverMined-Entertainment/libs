@@ -3,6 +3,7 @@
 lombokPluginVersion = "8.14.2" #https://plugins.gradle.org/plugin/io.freefair.lombok (Last version 8)
 shadowPluginVersion = "8.3.9" #https://plugins.gradle.org/plugin/com.gradleup.shadow (Last version 8)
 runPaperPluginVersion = "2.3.1" #https://github.com/jpenilla/run-task (Last java 16 version)
+runPaperForkPluginVersion = "2.3.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/xyz/jpenilla/run-paper/
 ymlPluginVersion = "0.6.0" #https://github.com/Minecrell/plugin-yml
 paperweightVersion = "2.0.0-beta.8"
 # CompileOnly
@@ -106,5 +107,6 @@ wutilsAnimation = { module = "me.wyne:WUtils-animation", version.ref = "wutilsAn
 lombok = { id = "io.freefair.lombok", version.ref = "lombokPluginVersion" }
 shadow = { id = "com.gradleup.shadow", version.ref = "shadowPluginVersion" }
 runPaper = { id = "xyz.jpenilla.run-paper", version.ref = "runPaperPluginVersion" }
+runPaperFork = { id = "xyz.jpenilla.run-paper", version.ref = "runPaperForkPluginVersion" }
 pluginYml = { id = "net.minecrell.plugin-yml.bukkit", version.ref = "ymlPluginVersion" }
 paperweight = { id = "io.papermc.paperweight.userdev", version.ref = "paperweightVersion" }
