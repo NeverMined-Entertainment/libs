@@ -15,7 +15,7 @@ hologramsVersion = "2.8.16" #https://github.com/DecentSoftware-eu/DecentHologram
 worldEditVersion = "7.2.17" #https://dev.bukkit.org/projects/worldedit/files?filter-game-version=2020709689%3A7915 (Last 1.16.5 version)
 worldGuardVersion = "7.0.5" #https://dev.bukkit.org/projects/worldguard/files?filter-game-version=2020709689%3A7915 (Last 1.16.5 version)
 luckPermsVersion = "5.5" #https://mvnrepository.com/artifact/net.luckperms/api
-infPointsVersion = "1.5.6" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/InfPoints-api/
+infPointsVersion = "1.6.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/InfPoints-api/
 nbtApiVersion = "2.15.1" #https://modrinth.com/plugin/nbtapi/versions?g=1.16.5&l=paper
 tabApiVersion = "5.2.4" #https://github.com/NEZNAMY/TAB/wiki/Developer-API
 connectionSourceVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/ConnectionSource-api/
