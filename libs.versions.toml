@@ -27,7 +27,7 @@ abstractMenusVersion = "1.16" #https://abstractmenus.github.io/docs/dev/general.
 antiRelogVersion = "3.0.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/ru/leymooo/antirelog/
 worldEventsVersion = "1.3.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-api/
 worldEventsNotificationsVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-Notifications-api/
-lootPoolVersion = "1.0.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/LootPool-api/
+lootPoolVersion = "1.0.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/LootPool-api/
 # Implementation
 commonsIoVersion = "2.20.0" #https://mvnrepository.com/artifact/commons-io/commons-io
 helperVersion = "5.6.14" #https://github.com/lucko/helper
