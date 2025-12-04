@@ -41,7 +41,7 @@ natsVersion = "2.24.1" #https://github.com/nats-io/nats.java
 javatuplesVersion = "1.2" #https://mvnrepository.com/artifact/org.javatuples/javatuples/1.2
 gsonVersion = "2.13.2" #https://mvnrepository.com/artifact/com.google.code.gson/gson
 adventureVersion = "4.25.0" #https://mvnrepository.com/artifact/net.kyori/adventure-api
-adventureBukkitVersion = "4.4.1" #https://mvnrepository.com/artifact/net.kyori/adventure-platform-bukkit
+adventureBukkitVersion = "4.3.4" #https://mvnrepository.com/artifact/net.kyori/adventure-platform-bukkit
 ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-core
 
 wutilsConfigVersion = "2.9.10" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-config
