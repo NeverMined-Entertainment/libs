@@ -45,7 +45,7 @@ adventureBukkitVersion = "4.3.4" #https://mvnrepository.com/artifact/net.kyori/a
 ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-core
 
 wutilsConfigVersion = "2.9.14" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-config
-wutilsConfigurablesVersion = "1.16.5" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
+wutilsConfigurablesVersion = "1.16.6" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
 wutilsLogVersion = "3.4.12" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-log/
 wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-i18n/
 wutilsi18nVersion = "5.2.5" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-i18n
