@@ -29,7 +29,7 @@ customItemsVersion = "2.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/
 antiRelogVersion = "3.0.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/ru/leymooo/antirelog/
 worldEventsVersion = "1.3.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-api/
 worldEventsNotificationsVersion = "1.2.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/nevermined/WorldEvents-Notifications-api/
-lootPoolVersion = "1.0.2" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/LootPool-api/
+lootPoolVersion = "1.0.3" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/LootPool-api/
 
 # Implementation
 commonsIoVersion = "2.21.0" #https://mvnrepository.com/artifact/commons-io/commons-io
