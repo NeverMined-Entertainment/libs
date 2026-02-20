@@ -72,7 +72,6 @@ abstractMenus = { module = "com.github.AbstractMenus:api", version.ref = "abstra
 infPoints = { module = "org.bigcraft:InfPoints-api", version.ref = "infPointsVersion" }
 connectionSource = { module = "org.bigcraft:ConnectionSource-api", version.ref = "connectionSourceVersion" }
 mobMoney = { module = "org.bigcraft:MobMoney-api", version.ref = "mobMoneyVersion" }
-effective = { module = "org.bigcraft:Effective-core", version.ref = "effectiveVersion" }
 customItems = { module = "org.bigcraft:CustomItems-core", version.ref = "customItemsVersion" }
 antiRelog = { module = "ru.leymooo:antirelog", version.ref = "antiRelogVersion" }
 worldEvents = { module = "org.nevermined:WorldEvents-api", version.ref = "worldEventsVersion" }
