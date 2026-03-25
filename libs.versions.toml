@@ -34,7 +34,7 @@ stormVersion = "1.0.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bi
 # Implementation
 commonsIoVersion = "2.21.0" #https://mvnrepository.com/artifact/commons-io/commons-io
 helperVersion = "5.6.14" #https://github.com/lucko/helper
-triumphGuiVersion = "3.1.13" #https://github.com/TriumphTeam/triumph-gui
+triumphGuiVersion = "3.1.11" #https://github.com/TriumphTeam/triumph-gui
 guiceVersion = "7.0.0" #https://github.com/google/guice
 hikariVersion = "7.0.2" #https://github.com/brettwooldridge/HikariCP
 natsVersion = "2.24.1" #https://github.com/nats-io/nats.java
