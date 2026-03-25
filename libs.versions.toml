@@ -12,7 +12,7 @@ paperApiVersion = "1.16.5-R0.1-SNAPSHOT"
 placeholderApiVersion = "2.12.2" #https://github.com/PlaceholderAPI/PlaceholderAPI
 commandApiVersion = "9.4.2" #https://commandapi.jorel.dev/ (Last 1.16.5 version)
 commandApiKotlinVersion = "11.0.0" #https://mvnrepository.com/artifact/dev.jorel/commandapi-kotlin-paper
-hologramsVersion = "2.9.8" #https://github.com/DecentSoftware-eu/DecentHolograms/releases
+hologramsVersion = "2.9.9" #https://github.com/DecentSoftware-eu/DecentHolograms/releases
 worldEditVersion = "7.2.17" #https://dev.bukkit.org/projects/worldedit/files?filter-game-version=2020709689%3A7915 (Last 1.16.5 version)
 worldGuardVersion = "7.0.5" #https://dev.bukkit.org/projects/worldguard/files?filter-game-version=2020709689%3A7915 (Last 1.16.5 version)
 luckPermsVersion = "5.5" #https://mvnrepository.com/artifact/net.luckperms/api
