@@ -47,7 +47,7 @@ enhancedLegacyVersion = "2.0.0" #https://github.com/Vankka/EnhancedLegacyText
 ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-core
 
 wutilsConfigVersion = "2.9.15" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-config
-wutilsConfigurablesVersion = "1.18.3" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
+wutilsConfigurablesVersion = "1.18.4" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
 wutilsLogVersion = "3.4.12" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-log/
 wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-i18n/
 wutilsi18nVersion = "5.3.3" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-i18n
