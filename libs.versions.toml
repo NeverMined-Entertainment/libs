@@ -48,7 +48,7 @@ ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/orml
 invUiVersion = "1.49" #https://github.com/NichtStudioCode/InvUI
 
 wutilsConfigVersion = "2.9.15" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-config
-wutilsConfigurablesVersion = "1.18.4" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
+wutilsConfigurablesVersion = "1.19.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
 wutilsLogVersion = "3.4.12" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-log/
 wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-i18n/
 wutilsi18nVersion = "5.3.4" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-i18n
