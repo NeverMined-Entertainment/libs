@@ -12,7 +12,7 @@ paperApiVersion = "1.16.5-R0.1-SNAPSHOT"
 placeholderApiVersion = "2.12.2" #https://github.com/PlaceholderAPI/PlaceholderAPI
 commandApiVersion = "9.4.3" #https://commandapi.jorel.dev/ (Last 1.16.5 version) (Forked 9.4.2 -> 9.4.3)
 commandApiKotlinVersion = "11.0.0" #https://mvnrepository.com/artifact/dev.jorel/commandapi-kotlin-paper
-hologramsVersion = "2.8.17" #https://github.com/DecentSoftware-eu/DecentHolograms/releases
+hologramsVersion = "2.10.0" #https://github.com/DecentSoftware-eu/DecentHolograms/releases
 worldEditVersion = "7.2.17" #https://dev.bukkit.org/projects/worldedit/files?filter-game-version=2020709689%3A7915 (Last 1.16.5 version)
 worldGuardVersion = "7.0.5" #https://dev.bukkit.org/projects/worldguard/files?filter-game-version=2020709689%3A7915 (Last 1.16.5 version)
 luckPermsVersion = "5.5" #https://mvnrepository.com/artifact/net.luckperms/api
@@ -55,7 +55,7 @@ wutilsi18nVersion = "5.3.4" #https://central.sonatype.com/artifact/io.github.wyn
 wutilsCommonVersion = "1.14.2" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-common
 wutilsJdbcVersion = "1.3.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-jdbc
 wutilsJsonVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-json
-wutilsAnimationVersion = "2.1.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-animation
+wutilsAnimationVersion = "2.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-animation
 
 [libraries]
 # CompileOnly
