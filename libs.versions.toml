@@ -57,7 +57,7 @@ wutilsCommonVersion = "1.14.5" #https://central.sonatype.com/artifact/io.github.
 wutilsJdbcVersion = "1.3.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-jdbc
 wutilsJsonVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-json
 wutilsAnimationVersion = "2.2.1" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-animation
-wutilsStructureVersion = "1.1.0-SNAPSHOT" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
+wutilsStructureVersion = "1.1.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
 
 [libraries]
 # CompileOnly
