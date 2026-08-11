@@ -49,7 +49,7 @@ ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/orml
 invUiVersion = "1.49" #https://github.com/NichtStudioCode/InvUI
 
 wutilsConfigVersion = "2.10.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-config
-wutilsConfigurablesVersion = "1.21.2" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
+wutilsConfigurablesVersion = "1.21.3" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
 wutilsLogVersion = "3.4.12" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-log/
 wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-i18n/
 wutilsi18nVersion = "5.4.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-i18n
@@ -57,7 +57,7 @@ wutilsCommonVersion = "1.16.2" #https://central.sonatype.com/artifact/io.github.
 wutilsJdbcVersion = "1.3.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-jdbc
 wutilsJsonVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-json
 wutilsAnimationVersion = "2.2.2" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-animation
-wutilsStructureVersion = "1.2.2" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
+wutilsStructureVersion = "1.2.3" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
 
 [libraries]
 # CompileOnly
