@@ -48,16 +48,16 @@ enhancedLegacyVersion = "2.0.0" #https://github.com/Vankka/EnhancedLegacyText
 ormLiteVersion = "6.1" #https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-core
 invUiVersion = "1.49" #https://github.com/NichtStudioCode/InvUI
 
-wutilsConfigVersion = "2.10.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-config
-wutilsConfigurablesVersion = "1.21.7" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
+wutilsConfigVersion = "2.10.1" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-config
+wutilsConfigurablesVersion = "1.21.8" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-configurables
 wutilsLogVersion = "3.4.12" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-log/
 wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-i18n/
-wutilsi18nVersion = "5.6.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-i18n
-wutilsCommonVersion = "1.16.4" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-common
-wutilsJdbcVersion = "1.3.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-jdbc
-wutilsJsonVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-json
-wutilsAnimationVersion = "2.2.2" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-animation
-wutilsStructureVersion = "1.2.6" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
+wutilsi18nVersion = "5.6.1" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-i18n
+wutilsCommonVersion = "1.16.5" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-common
+wutilsJdbcVersion = "2.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-jdbc
+wutilsJsonVersion = "1.2.1" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-json
+wutilsAnimationVersion = "2.2.3" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-animation
+wutilsStructureVersion = "1.2.7" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
 
 [libraries]
 # CompileOnly
