@@ -21,6 +21,7 @@ nbtApiVersion = "2.15.3" #https://modrinth.com/plugin/nbtapi/versions?g=1.16.5&l
 tabApiVersion = "5.3.2" #https://github.com/NEZNAMY/TAB/wiki/Developer-API
 abstractMenusVersion = "1.16" #https://abstractmenus.github.io/docs/dev/general.html
 znpcPlusVersion = "2.1.0-SNAPSHOT" #https://github.com/Pyrbu/ZNPCsPlus/wiki/API
+vaultApiVersion = "1.7" #https://github.com/MilkBowl/VaultAPI
 
 infPointsVersion = "2.2.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/InfPoints-api/
 connectionSourceVersion = "2.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/ConnectionSource-api/
@@ -59,6 +60,10 @@ wutilsJsonVersion = "1.2.1" #https://central.sonatype.com/artifact/io.github.wyn
 wutilsAnimationVersion = "2.2.3" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-animation
 wutilsStructureVersion = "1.2.7" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
 
+# Test
+junitVersion = "5.14.4" #https://github.com/junit-team/junit-framework/releases (Last java 16 version, 6.x requires java 17)
+h2Version = "2.4.240" #https://github.com/h2database/h2database/releases
+
 [libraries]
 # CompileOnly
 paperApi = { module = "com.destroystokyo.paper:paper-api", version.ref = "paperApiVersion" }
@@ -74,6 +79,7 @@ nbtApi = { module = "de.tr7zw:item-nbt-api-plugin", version.ref = "nbtApiVersion
 tabApi = { module = "com.github.NEZNAMY:TAB-API", version.ref = "tabApiVersion" }
 abstractMenus = { module = "com.github.AbstractMenus:api", version.ref = "abstractMenusVersion" }
 znpcPlus = { module = "lol.pyr:znpcsplus-api", version.ref = "znpcPlusVersion" }
+vaultApi = { module = "com.github.MilkBowl:VaultAPI", version.ref = "vaultApiVersion" }
 
 infPoints = { module = "org.bigcraft:InfPoints-api", version.ref = "infPointsVersion" }
 connectionSource = { module = "org.bigcraft:ConnectionSource-api", version.ref = "connectionSourceVersion" }
@@ -118,6 +124,12 @@ wutilsJdbc = { module = "io.github.wyne10:wutils-jdbc", version.ref = "wutilsJdb
 wutilsJson = { module = "io.github.wyne10:wutils-json", version.ref = "wutilsJsonVersion" }
 wutilsAnimation = { module = "io.github.wyne10:wutils-animation", version.ref = "wutilsAnimationVersion" }
 wutilsStructure = { module = "io.github.wyne10:wutils-structure", version.ref = "wutilsStructureVersion" }
+
+# Test
+junitBom = { module = "org.junit:junit-bom", version.ref = "junitVersion" }
+junitJupiter = { module = "org.junit.jupiter:junit-jupiter" }
+junitPlatformLauncher = { module = "org.junit.platform:junit-platform-launcher" }
+h2 = { module = "com.h2database:h2", version.ref = "h2Version" }
 
 [plugins]
 lombok = { id = "io.freefair.lombok", version.ref = "lombokPluginVersion" }
