@@ -10,7 +10,8 @@ paperweightVersion = "2.0.0-beta.8"
 # CompileOnly
 paperApiVersion = "1.16.5-R0.1-SNAPSHOT"
 placeholderApiVersion = "2.12.2" #https://github.com/PlaceholderAPI/PlaceholderAPI
-commandApiVersion = "9.4.3" #https://commandapi.jorel.dev/ (Last 1.16.5 version) (Forked 9.4.2 -> 9.4.3)
+commandApiVersion = "9.4.2" #https://commandapi.jorel.dev/ (Last 1.16.5 version)
+commandApiForkVersion = "9.4.3" #https://commandapi.jorel.dev/ (Last 1.16.5 version) (Forked 9.4.2 -> 9.4.3 https://github.com/Wyne10/CommandAPI)
 commandApiKotlinVersion = "11.0.0" #https://mvnrepository.com/artifact/dev.jorel/commandapi-kotlin-paper
 hologramsVersion = "2.8.17" #https://github.com/DecentSoftware-eu/DecentHolograms/releases (Last java 16 version)
 worldEditVersion = "7.2.17" #https://dev.bukkit.org/projects/worldedit/files?filter-game-version=2020709689%3A7915 (Last 1.16.5 version)
@@ -24,7 +25,7 @@ znpcPlusVersion = "2.1.0-SNAPSHOT" #https://github.com/Pyrbu/ZNPCsPlus/wiki/API
 vaultApiVersion = "1.7" #https://github.com/MilkBowl/VaultAPI
 
 infPointsVersion = "3.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/InfPoints-api/
-connectionSourceVersion = "2.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/ConnectionSource-api/
+connectionSourceVersion = "2.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/connectionsource-api
 mobMoneyVersion = "1.0.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/MobMoney-api/
 customItemsVersion = "2.2.24" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/CustomItems-api/
 antiRelogVersion = "3.0.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/ru/leymooo/antirelog/
@@ -69,6 +70,7 @@ h2Version = "2.4.240" #https://github.com/h2database/h2database/releases
 paperApi = { module = "com.destroystokyo.paper:paper-api", version.ref = "paperApiVersion" }
 placeholderApi = { module = "me.clip:placeholderapi", version.ref = "placeholderApiVersion" }
 commandApi = { module = "dev.jorel:commandapi-bukkit-core", version.ref = "commandApiVersion" }
+commandApiFork = { module = "dev.jorel:commandapi-bukkit-core", version.ref = "commandApiForkVersion" }
 commandApiKotlin = { module = "dev.jorel:commandapi-kotlin-paper", version.ref = "commandApiKotlinVersion" }
 holograms = { module = "com.github.decentsoftware-eu:decentholograms", version.ref = "hologramsVersion" }
 worldEdit = { module = "com.sk89q.worldedit:worldedit-bukkit", version.ref = "worldEditVersion" }
