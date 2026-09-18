@@ -24,7 +24,7 @@ abstractMenusVersion = "1.16" #https://abstractmenus.github.io/docs/dev/general.
 znpcPlusVersion = "2.1.0-SNAPSHOT" #https://github.com/Pyrbu/ZNPCsPlus/wiki/API
 vaultApiVersion = "1.7" #https://github.com/MilkBowl/VaultAPI
 
-infPointsVersion = "3.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/InfPoints-api/
+infPointsVersion = "3.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/infpoints-api
 connectionSourceVersion = "2.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/connectionsource-api
 mobMoneyVersion = "1.0.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/MobMoney-api/
 customItemsVersion = "2.2.24" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/CustomItems-api/
@@ -83,8 +83,8 @@ abstractMenus = { module = "com.github.AbstractMenus:api", version.ref = "abstra
 znpcPlus = { module = "lol.pyr:znpcsplus-api", version.ref = "znpcPlusVersion" }
 vaultApi = { module = "com.github.MilkBowl:VaultAPI", version.ref = "vaultApiVersion" }
 
-infPoints = { module = "org.bigcraft:InfPoints-api", version.ref = "infPointsVersion" }
-connectionSource = { module = "org.bigcraft:ConnectionSource-api", version.ref = "connectionSourceVersion" }
+infPoints = { module = "io.github.wyne10:infpoints-api", version.ref = "infPointsVersion" }
+connectionSource = { module = "io.github.wyne10:connectionsource-api", version.ref = "connectionSourceVersion" }
 mobMoney = { module = "org.bigcraft:MobMoney-api", version.ref = "mobMoneyVersion" }
 customItems = { module = "org.bigcraft:CustomItems-api", version.ref = "customItemsVersion" }
 antiRelog = { module = "ru.leymooo:antirelog", version.ref = "antiRelogVersion" }
