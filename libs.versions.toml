@@ -26,7 +26,7 @@ vaultApiVersion = "1.7" #https://github.com/MilkBowl/VaultAPI
 lightApiVersion = "5.3.0-Bukkit" #https://github.com/BeYkeRYkt/LightAPI (Last 1.16.5 version)
 
 infPointsVersion = "3.0.1" #https://central.sonatype.com/artifact/io.github.wyne10/infpoints-api
-connectionSourceVersion = "2.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/connectionsource-api
+connectionSourceVersion = "2.1.0" #https://central.sonatype.com/artifact/io.github.wyne10/connectionsource-api
 mobMoneyVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/mobmoney-api
 customItemsVersion = "3.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/customitems-api
 antiRelogVersion = "3.0.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/ru/leymooo/antirelog/
