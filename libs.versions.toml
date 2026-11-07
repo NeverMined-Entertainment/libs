@@ -34,6 +34,7 @@ eventControlVersion = "1.0.0" #https://central.sonatype.com/artifact/io.github.w
 lootPoolVersion = "2.9.1" #https://central.sonatype.com/artifact/io.github.wyne10/lootpool-api
 stormVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/storm-api
 teleportVersion = "1.1.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/BigTeleport-api/
+enderChestVersion = "1.1.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/SlimEnderChest-api/
 
 # Implementation
 commonsIoVersion = "2.21.0" #https://mvnrepository.com/artifact/commons-io/commons-io
@@ -93,6 +94,7 @@ eventControl = { module = "io.github.wyne10:eventcontrol-api", version.ref = "ev
 lootPool = { module = "io.github.wyne10:lootpool-api", version.ref = "lootPoolVersion" }
 storm = { module = "io.github.wyne10:storm-api", version.ref = "stormVersion" }
 teleport = { module = "org.bigcraft:BigTeleport-api", version.ref = "teleportVersion" }
+enderChest = { module = "org.bigcraft:SlimEnderChest-api", version.ref = "enderChestVersion" }
 
 # Implementation
 commonsIo = { module = "commons-io:commons-io", version.ref = "commonsIoVersion" }
