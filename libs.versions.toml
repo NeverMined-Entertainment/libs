@@ -55,11 +55,11 @@ wutilsConfigurablesVersion = "1.21.9" #https://central.sonatype.com/artifact/io.
 wutilsLogVersion = "3.4.12" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-log/
 wutilsi18nLegacyVersion = "3.4.1" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/me/wyne/wutils-i18n/
 wutilsi18nVersion = "5.6.1" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-i18n
-wutilsCommonVersion = "1.16.11" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-common
+wutilsCommonVersion = "1.16.12" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-common
 wutilsJdbcVersion = "2.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-jdbc
 wutilsJsonVersion = "1.2.1" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-json
 wutilsAnimationVersion = "2.2.3" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-animation
-wutilsStructureVersion = "1.2.7" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
+wutilsStructureVersion = "1.2.8" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
 
 # Test
 junitVersion = "5.14.4" #https://github.com/junit-team/junit-framework/releases (Last java 16 version, 6.x requires java 17)
