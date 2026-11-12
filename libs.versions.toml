@@ -60,7 +60,7 @@ wutilsCommonVersion = "1.16.14" #https://central.sonatype.com/artifact/io.github
 wutilsJdbcVersion = "2.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-jdbc
 wutilsJsonVersion = "1.2.1" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-json
 wutilsAnimationVersion = "2.2.3" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-animation
-wutilsStructureVersion = "1.2.8" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
+wutilsStructureVersion = "1.2.9" #https://central.sonatype.com/artifact/io.github.wyne10/wutils-structure
 
 # Test
 junitVersion = "5.14.4" #https://github.com/junit-team/junit-framework/releases (Last java 16 version, 6.x requires java 17)
