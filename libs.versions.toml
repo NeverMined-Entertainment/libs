@@ -30,6 +30,7 @@ connectionSourceVersion = "2.1.1" #https://central.sonatype.com/artifact/io.gith
 mobMoneyVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/mobmoney-api
 customItemsVersion = "3.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/customitems-api
 antiRelogVersion = "3.0.11" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/ru/leymooo/antirelog/
+auctionVersion = "1.3.3" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/by1337/bauction/BAuction
 eventControlVersion = "1.0.0" #https://central.sonatype.com/artifact/io.github.wyne10/eventcontrol-api
 lootPoolVersion = "2.9.8" #https://central.sonatype.com/artifact/io.github.wyne10/lootpool-api
 stormVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/storm-api
@@ -91,6 +92,7 @@ connectionSource = { module = "io.github.wyne10:connectionsource-api", version.r
 mobMoney = { module = "io.github.wyne10:mobmoney-api", version.ref = "mobMoneyVersion" }
 customItems = { module = "io.github.wyne10:customitems-api", version.ref = "customItemsVersion" }
 antiRelog = { module = "ru.leymooo:antirelog", version.ref = "antiRelogVersion" }
+auction = { module = "org.by1337.bauction:BAuction", version.ref = "auctionVersion" }
 eventControl = { module = "io.github.wyne10:eventcontrol-api", version.ref = "eventControlVersion" }
 lootPool = { module = "io.github.wyne10:lootpool-api", version.ref = "lootPoolVersion" }
 storm = { module = "io.github.wyne10:storm-api", version.ref = "stormVersion" }
