@@ -37,6 +37,7 @@ stormVersion = "1.2.0" #https://central.sonatype.com/artifact/io.github.wyne10/s
 teleportVersion = "1.3.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/BigTeleport-api/
 enderChestVersion = "1.1.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/SlimEnderChest-api/
 subscriptionVersion = "1.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/ServiceSubscription-api/
+buyerVersion = "2.0.0" #https://mymavenrepo.com/repo/SjKIru68icwwmC0qOtV7/org/bigcraft/KBuyer-api/
 
 # Implementation
 commonsIoVersion = "2.21.0" #https://mvnrepository.com/artifact/commons-io/commons-io
@@ -99,6 +100,7 @@ storm = { module = "io.github.wyne10:storm-api", version.ref = "stormVersion" }
 teleport = { module = "org.bigcraft:BigTeleport-api", version.ref = "teleportVersion" }
 enderChest = { module = "org.bigcraft:SlimEnderChest-api", version.ref = "enderChestVersion" }
 subscription = { module = "org.bigcraft:ServiceSubscription-api", version.ref = "subscriptionVersion" }
+buyer = { module = "org.bigcraft:KBuyer-api", version.ref = "buyerVersion" }
 
 # Implementation
 commonsIo = { module = "commons-io:commons-io", version.ref = "commonsIoVersion" }
