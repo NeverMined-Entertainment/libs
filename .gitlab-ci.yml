@@ -1,0 +1,25 @@
+variables:
+  DEPLOY_RELEASE:
+    value: "true"
+    options: ["true", "false"]
+    description: 'Create a GitLab release'
+  DEPLOY_LATEST:
+    value: "true"
+    options: ["true", "false"]
+    description: 'Make release latest'
+
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "web"
+    - if: $CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "master"
+      variables:
+        DEPLOY_RELEASE: "true"
+        DEPLOY_LATEST: "true"
+
+include:
+  - project: 'hotmine/infrastructure/CI-CD'
+    ref: master
+    file: '.gitlab/workflows/master-deploy.yml'
+    inputs:
+      release: $DEPLOY_RELEASE
+      latest: $DEPLOY_LATEST
